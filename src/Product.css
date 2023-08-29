@@ -41,5 +41,6 @@
 .product__info {
     height: 100px;
     margin-bottom: 15px;
-
+    font-weight: 450;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }

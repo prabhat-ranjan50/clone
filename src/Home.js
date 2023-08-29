@@ -17,6 +17,13 @@ function Home() {
                    image="https://m.media-amazon.com/images/I/612l41qnTAL._AC_UY327_FMwebp_QL65_.jpg"
                    rating={4}
                 />
+                <Product 
+                   id="123461"
+                   title="VW 80 cm(32 inches) Linux Series Frameless HD Ready Smart LED TV VW32C2 (Black)"
+                   price={29.99}
+                   image="https://m.media-amazon.com/images/I/81wxS8abrgL._AC_UY327_FMwebp_QL65_.jpg"
+                   rating={5}
+                />
                 <Product
                    id="123457" 
                    title="MuscleBlaze High Protein Muesli, Dark Chocolate & Cranberry, 18 g Protein, with Probiotics, Superseeds, Raisins & Almond, Ready to Eat Healthy Snack, 1 kg"
@@ -34,11 +41,18 @@ function Home() {
                    image="https://m.media-amazon.com/images/I/4193mwtpCKL._SX300_SY300_QL70_FMwebp_.jpg"
                    rating={4}
                 />
+                 <Product 
+                   id="123461"
+                   title="VW 80 cm(32 inches) Linux Series Frameless HD Ready Smart LED TV VW32C2 (Black)"
+                   price={29.99}
+                   image="https://m.media-amazon.com/images/I/81wxS8abrgL._AC_UY327_FMwebp_QL65_.jpg"
+                   rating={5}
+                />
                 <Product 
-                   id="123459"
-                   title="Zureni Bucket Quick Spin Mop with 2 Microfiber Wet Dry Mophead Floor Cleaning pocha Extendable Handle Removable Wringer 360° Floor Cleaner"
-                   price={349.99}
-                   image="https://m.media-amazon.com/images/I/61gUQE7BWQL._AC_UL480_QL65_.jpg"
+                   id="123461"
+                   title="VW 80 cm(32 inches) Linux Series Frameless HD Ready Smart LED TV VW32C2 (Black)"
+                   price={29.99}
+                   image="https://m.media-amazon.com/images/I/81wxS8abrgL._AC_UY327_FMwebp_QL65_.jpg"
                    rating={5}
                 />
                 <Product 
@@ -52,11 +66,25 @@ function Home() {
             </div>
 
             <div className='home__row'>
-            <Product 
+                <Product 
+                   id="123459"
+                   title="Zureni Bucket Quick Spin Mop with 2 Microfiber Wet Dry Mophead Floor Cleaning pocha Extendable Handle Removable Wringer 360° Floor Cleaner"
+                   price={349.99}
+                   image="https://m.media-amazon.com/images/I/61gUQE7BWQL._AC_UL480_QL65_.jpg"
+                   rating={5}
+                />
+                <Product 
                    id="123461"
                    title="VW 80 cm(32 inches) Linux Series Frameless HD Ready Smart LED TV VW32C2 (Black)"
                    price={29.99}
                    image="https://m.media-amazon.com/images/I/81wxS8abrgL._AC_UY327_FMwebp_QL65_.jpg"
+                   rating={5}
+                />
+                <Product 
+                   id="123462"
+                   title="boAt Wave Call Smart Watch with Bluetooth Calling, 1.69” HD Display with 550 NITS & 70% Color Gamut, 150+ Watch Faces, Multi-Sport Modes,HR,SpO2, IP68(Active Black)"
+                   price={29.99}
+                   image="https://m.media-amazon.com/images/I/61H5PEqBBAL._SL1500_.jpg"
                    rating={5}
                 />
             </div>
